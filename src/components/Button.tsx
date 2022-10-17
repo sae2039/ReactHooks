@@ -14,4 +14,4 @@ function Button({ handleClick, children } : ButtonProps) {
   )
 }
 
-export default React.memo(Button)
+export default React.memo(Button) 

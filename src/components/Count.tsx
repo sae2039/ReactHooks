@@ -8,4 +8,4 @@ function Count({ text, count } : CountPropsType) {
 	return <div>{text} - {count}</div>
 }
 
-export default React.memo(Count)
+export default React.memo(Count) 
